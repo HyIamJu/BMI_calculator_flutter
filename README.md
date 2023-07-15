@@ -1,1 +1,1 @@
-# BMI_calculator_flutter
+# Flutter simple Body mass index calculator
